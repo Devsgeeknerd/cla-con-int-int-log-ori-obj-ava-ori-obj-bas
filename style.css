@@ -1,0 +1,9 @@
+/* 
+    OBS: Os atributos abaixo comentado foram subtituido por outro durante a aula.
+*/
+div,span,p{
+    /* background-color: #ff0000; */
+    /* background-color: #0000ff; */
+    background-color: #00ff00;
+    color:#ffffff;
+}
