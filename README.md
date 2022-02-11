@@ -63,4 +63,4 @@
 &nbsp;
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/sel-mul?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/sel-mul?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
