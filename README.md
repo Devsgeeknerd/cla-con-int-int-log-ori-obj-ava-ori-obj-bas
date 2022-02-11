@@ -57,7 +57,7 @@
 &nbsp;
 ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/sel-mul?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/sel-mul?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
