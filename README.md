@@ -4,7 +4,7 @@
 - Para selecionar múltiplos itens colocamos uma virgula entre um e outro.
 
 <!-- TABLE OF CONTENTS -->
-<!-- ## TABELA DE CONTEÚDO -->
+## TABELA DE CONTEÚDO
 
 <!-- - [Vista por cima](#vista-por-cima) -->
 <!--  - [Foto da tela](#foto-da-tela) -->
